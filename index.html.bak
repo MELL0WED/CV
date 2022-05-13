@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>HTML template</title>
+</head>
+<body>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+      mollitia, consequuntur aliquid nobis vitae soluta maiores expedita ipsam
+      delectus molestiae!
+    </p>
+
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
+      architecto temporibus sed officiis vero, quisquam, corrupti quis veritatis
+      dolor amet nostrum quam! Voluptates nam architecto enim neque nemo
+      consectetur molestias unde fugit dolorum alias temporibus expedita
+      doloribus deserunt laborum asperiores illum saepe, voluptate rerum quia
+      sit facilis consequuntur perferendis aperiam. Nobis reiciendis debitis
+      consequuntur placeat maiores voluptas, quos esse eum.
+    </p>
+
+    <p>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus fugiat,
+      nemo rem facere cumque error. Aliquam consequatur nobis cupiditate atque!
+      Fugiat amet facere magni, nulla pariatur ut ullam, vel est eum voluptatum
+      dicta quis dignissimos labore repellendus. Maiores deserunt quas tempore
+      impedit, corporis quae amet blanditiis voluptatum laudantium magni ipsa!
+    </p>
+</body>
+</html>
+@media screen and (max-width: 768px) {
+        body {
+          background-color: #333;
+          color: #3498db;
+        }
+     }
